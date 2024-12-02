@@ -1,0 +1,9 @@
+body {
+    font-family: "Source Sans Pro";
+}
+
+.cabecalho {
+    color: #fff;
+    background-color: #776666;
+    padding: 15px;
+}

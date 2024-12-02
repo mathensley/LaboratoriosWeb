@@ -1,0 +1,4 @@
+O surgimento tanto da World Wide Web como do HTML serviu para alavancar a comunucação global, foram esses dois marcos
+na história da internet como um todo que deram o pontapé inicial para o que temos hoje: redes sociais, sites de e-commerce,
+blogs, fóruns, plataformas de vídeos, etc. Além disso, também foi a partir daí que surgiram novas tecnologias como css e javascript
+que, em conjunto, contribuíram para essa mudança na sociedade e no compartilhamento de informações a nível global.
