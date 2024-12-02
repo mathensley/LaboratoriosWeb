@@ -1,9 +1,78 @@
+* {
+    margin: 0;
+}
+
 body {
     font-family: "Source Sans Pro";
 }
 
 .cabecalho {
+    background-color: #9e7676;
+    background-attachment: fixed;
     color: #fff;
-    background-color: #776666;
-    padding: 15px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.cabecalho h1 {
+    text-align: center;
+}
+
+main {
+    margin: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+.introducao {
+    background-color: #f8f4f4;
+    border-left: 5px solid #9e7676;
+    border-right: 5px solid #9e7676;
+    padding: 15px 20px;
+    border-radius: 5px;
+}
+
+.introducao h2 {
+    font-size: 1.5em;
+    color: #9e7676;
+    margin-bottom: 10px;
+}
+
+.introducao p {
+    font-size: 1em;
+    line-height: 1.5;
+    color: #333;
+}
+
+.lista__questoes {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: left;
+}
+
+.lista__questoes li {
+    margin: 10px 0;
+}
+
+.link__questao {
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    background-color: #f8f4f4;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.link__questao:hover {
+    background-color: #9e7676;
+    color: #fff;
 }
