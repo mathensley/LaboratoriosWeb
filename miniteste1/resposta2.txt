@@ -1,0 +1,10 @@
+- IDEs (e.g. Intellij IDEA, VSCode, etc): proporcionam uma interface gráfica interativa de forma a ser visualmente agradável 
+e intuitiva para se programar, fornecendo plugins e outras facilidades que ajudam a agilizar o processo de desenvolvimento.
+
+- Springboot: um framework em java que ajuda no processo de criação de aplicações web trazendo métodos e abstrações
+voltadas para o backend, seja para a parte de criação de CRUDs, Controllers e Repositórios, como também para testes,
+comunicação com banco de dados e assim por diante.
+
+- Bootstrap: amplamento utilizado no frontend, fornencendo coleções de estilos e componentes, nesse sentido é um framework 
+que agiliza bastante, por exemplo, no processo de criação de sites de modo a deixar o design amigável e responsivo 
+melhorando assim a experiência do usuário.

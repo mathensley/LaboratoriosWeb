@@ -1,0 +1,4 @@
+JavaScript desenpenha um papel fundamental no desenvolvimento web por permitir a criação de sites dinâmicos e interativos, 
+onde o conteúdo da página é manipulado em tempo real, sem a necessidade de recarregá-la. Além disso, com o uso de frameworks
+e bibliotecas (como React, Angular e Node.js), JavaScript também facilita a construção de aplicações web mais complexas, 
+fazendo com que seja uma das linguagens mais essenciais no desenvolvimento frontend e, mais recentemente, no backend.

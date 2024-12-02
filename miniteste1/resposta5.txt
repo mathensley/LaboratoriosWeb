@@ -1,0 +1,12 @@
+- Primeiramente, teríamos que alinhar os requisitos e expectativas do projeto.
+- Depois disso, é fundamental realizar a divisão de tarefas além de, dependendo do escopo,
+verificar a possibilidade de utilizar metodologias ágeis (como Scrum) para gerenciar as atividades.
+- Em seguida, dividir o trabalho em etapas menores e bem definidas, como design, desenvolvimento, teste, etc.
+- A escolha de um editor de texto ou IDE comum, como VS Code e Intellij Idea, também é importante. 
+- Selecionar tecnologias adequadas ao projeto, como React, Angular, dependendo dos requisitos.
+- Para o versionamento, usar um repositório no GitHub e separar cada parte do projeto em branchs para cada desenvolvedor. 
+- Para cada implementação significatava, realizar testes pertinentes.
+- Realizar commits claros a cada implementação feita. 
+- É de suma importância documentar o projeto e fazer um readme intuitivo. 
+- Realizar reuniões (presencial ou online) para discutir o que foi feito, as dificuldades e como prosseguir.
+- Por fim, utilizar comunicação e feedback para discutir como algo pode ser melhorado. 
